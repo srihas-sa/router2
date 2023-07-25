@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.outer {
+  display: flex;
+  flex-direction: row;
+  border-color: #8e8e8e;
+  border-width: 2px;
+  border-style: solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+.smallphoto {
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-right: 3px;
+}
+
+.largephoto {
+  height: 30vh;
+  width: 40vw;
+  margin-top: 20px;
+  margin-right: 10px;
+}
